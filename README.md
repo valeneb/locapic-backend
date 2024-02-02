@@ -6,4 +6,4 @@ Want to see the frontend? [It's here](https://github.com/valeneb/locapic-fronten
 
 ## 📰 License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License.
